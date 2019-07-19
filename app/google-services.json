@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "431179995363",
+    "firebase_url": "https://mocha-bea62.firebaseio.com",
+    "project_id": "mocha-bea62",
+    "storage_bucket": "mocha-bea62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431179995363:android:969275cb38c8ac27",
+        "android_client_info": {
+          "package_name": "com.example.josephnyangaresi.shake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431179995363-ed0r4nis9loko74nka6vejhdamv6f89m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ZdSttiqhorSABPJ_FbA21H7SZKIPhzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431179995363-ed0r4nis9loko74nka6vejhdamv6f89m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431179995363:android:7e6f5dd41ff89c7d",
+        "android_client_info": {
+          "package_name": "com.joe.mocha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431179995363-ed0r4nis9loko74nka6vejhdamv6f89m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ZdSttiqhorSABPJ_FbA21H7SZKIPhzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431179995363-ed0r4nis9loko74nka6vejhdamv6f89m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
